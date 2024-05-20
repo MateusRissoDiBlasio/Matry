@@ -16,8 +16,12 @@
 
 .matry{
 	width: 220px;
-	align-self: start;
+	align-self: center;
 	padding: 30px;
+	background-color: aliceblue;
+	border-radius: 50%;
+	border: 4px solid goldenrod;
+
 	
 }
 
@@ -84,14 +88,14 @@ button {
 	color: black;
 	background: linear-gradient(#bf9b30, #ffbf00,
     #ffcf40, #ffbf00, #bf9b30);
-	border: 2px solid black;
-	box-shadow: 5px 5px 0 black, -5px -5px 0 black, -5px 5px 0 black,
-		5px -5px 0 black;
+	border: 2px solid white;
+	box-shadow: 5px 5px 0 white, -5px -5px 0 white, -5px 5px 0 white,
+		5px -5px 0 white;
 	transition: 500ms ease-in-out;
 }
 
 button:active {
-	box-shadow: 20px 5px 0 black, -20px -5px 0 black;
+	box-shadow: 20px 5px 0 white, -20px -5px 0 white;
 }
 
 button:focus {
