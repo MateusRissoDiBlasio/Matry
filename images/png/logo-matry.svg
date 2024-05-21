@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.56390993"
-     inkscape:cx="396.33989"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.52249848"
+     inkscape:cx="318.66122"
+     inkscape:cy="510.04934"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="1912"
@@ -885,5 +885,16 @@
        style="fill:#000000;stroke-width:0.0119468"
        d="m 143.48124,88.189527 c -0.87147,-1.87489 -1.66512,-3.52662 -1.90548,-3.96567 -0.13817,-0.25236 -0.44302,-0.4653 -0.83642,-0.58423 l -0.0896,-0.0271 0.25088,-5.3e-4 0.25088,-5.3e-4 0.0896,0.0496 c 0.14535,0.0804 0.25744,0.21069 0.46034,0.535 0.25445,0.40671 0.50076,0.89947 0.93185,1.8642 0.32573,0.72895 0.80339,1.78718 0.95424,2.11405 0.0499,0.10813 0.0907,0.20087 0.0907,0.20609 0,0.005 -0.0234,0.009 -0.052,0.009 h -0.052 z"
        id="path11" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;fill:#ff00ff;stroke:#ffffff;stroke-width:0.2"
+       x="7.9476752"
+       y="132.92285"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="7.9476752"
+         y="132.92285"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke-width:0.2">CONSULTORIA E CORRETORA DE SEGUROS</tspan></text>
   </g>
 </svg>
