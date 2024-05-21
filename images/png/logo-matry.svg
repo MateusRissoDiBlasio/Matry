@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.97531385"
-     inkscape:cx="318.35906"
-     inkscape:cy="510.09221"
+     inkscape:zoom="0.64379276"
+     inkscape:cx="319.2021"
+     inkscape:cy="510.25737"
      inkscape:window-width="1600"
      inkscape:window-height="829"
      inkscape:window-x="1912"
@@ -887,7 +887,7 @@
        id="path11" />
     <text
        xml:space="preserve"
-       style="font-size:6.73686px;fill:#ff00ff;stroke:#ffffff;stroke-width:0.190966"
+       style="font-size:6.73686px;fill:#ff00ff;stroke:#ffffff;stroke-width:0;stroke-dasharray:none"
        x="22.637196"
        y="149.90558"
        id="text1"
@@ -896,6 +896,6 @@
          id="tspan1"
          x="22.637196"
          y="149.90558"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.73686px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#000000;stroke-width:0.190966">CONSULTORIA E CORRETORA DE SEGUROS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:6.73686px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:#000000;stroke-width:0;stroke-dasharray:none">CONSULTORIA E CORRETORA DE SEGUROS</tspan></text>
   </g>
 </svg>
