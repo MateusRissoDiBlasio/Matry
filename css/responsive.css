@@ -12,6 +12,7 @@
         transition: ease-in 3s;
     }
     
+    
     .links p{
         font-family: "Roboto", sans-serif;
         font-weight: 700;
@@ -49,6 +50,7 @@
     button {
         width: 260px;
         height: 80px;
+
     }
 }
     
@@ -104,6 +106,7 @@
 
     .fa-whatsapp{
         font-size: 30px;
+        color:lime;
     }
     
     .fa-envelope{
@@ -113,6 +116,7 @@
     .contacts a {
         font-size: 18px;
     }
+    
 }
 
 @media (min-width: 360px) and (max-width: 375px){ 
@@ -148,7 +152,6 @@
         margin: 5px;
         justify-content: space-between;
     }
-    
     .seguradoras .tokio {
         width: 150px;
         height: 60px;
@@ -186,6 +189,7 @@
     section .contacts{
         margin-top: 5px;
     }
+    
 }
 
 @media (min-width: 376px) and (max-width: 425px){
