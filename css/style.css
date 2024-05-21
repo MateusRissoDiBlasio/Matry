@@ -14,6 +14,25 @@
 
 }
 
+.matry {
+		opacity: 1;
+		animation-name: fadeInOpacity;
+		animation-iteration-count: 1;
+		animation-timing-function: ease-in;
+		animation-duration: 1s;
+}
+	
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+
+
 .matry{
 	width: 200px;
 	align-self: center;
@@ -86,22 +105,17 @@ button {
 	font-size: 26px;
 	font-weight: 400;
 	color: black;
-	background: linear-gradient(#bf9b30, #ffbf00,
-    #ffcf40, #ffbf00, #bf9b30);
+	background: radial-gradient(circle,
+    #ffcf40,#ffbf00);
 	border: 2px solid white;
 	box-shadow: 5px 5px 0 white, -5px -5px 0 white, -5px 5px 0 white,
 		5px -5px 0 white;
-	transition: 500ms ease-in-out;
-	
-	
+	transition: 1000ms;
 }
 
-button:active {
+button:active{
+	transition: ease-out;
 	box-shadow: 20px 5px 0 white, -20px -5px 0 white;
-}
-
-button:focus {
-	outline: none;
 }
 
 .fa-whatsapp{
