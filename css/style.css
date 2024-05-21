@@ -1,9 +1,9 @@
 .bio{
-    display: flex;
+	display: flex;
 	flex-direction: column;
 	background-image: linear-gradient(#bf9b30, #ffbf00, #ffbf00, #bf9b30);
-    width: 100vw;
-    height: 100vh;
+	width: 100vw;
+	height: 100vh;
 	justify-content: center;
 	align-items: center;
 }
@@ -15,11 +15,11 @@
 }
 
 .matry {
-		opacity: 1;
-		animation-name: fadeInOpacity;
-		animation-iteration-count: 1;
-		animation-timing-function: ease-in;
-		animation-duration: 1s;
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
 }
 	
 @keyframes fadeInOpacity {
