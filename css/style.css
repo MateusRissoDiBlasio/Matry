@@ -1,9 +1,9 @@
 .bio{
-	display: flex;
+    display: flex;
 	flex-direction: column;
 	background-image: linear-gradient(#bf9b30, #ffbf00, #ffbf00, #bf9b30);
-	width: 100vw;
-	height: 100vh;
+    width: 100vw;
+    height: 100vh;
 	justify-content: center;
 	align-items: center;
 }
@@ -15,11 +15,11 @@
 }
 
 .matry {
-	opacity: 1;
-	animation-name: fadeInOpacity;
-	animation-iteration-count: 1;
-	animation-timing-function: ease-in;
-	animation-duration: 1s;
+		opacity: 1;
+		animation-name: fadeInOpacity;
+		animation-iteration-count: 1;
+		animation-timing-function: ease-in;
+		animation-duration: 1s;
 }
 	
 @keyframes fadeInOpacity {
@@ -142,12 +142,18 @@ section .contacts{
 	text-decoration: none;
 	color: #FFF;
 	margin-right: 15px;
-	justify-content: center;
+	justify-content: space-evenly;
 	align-items: center;
-	font-family: "Caveat", cursive;
-	font-size: 22px;
-	font-weight: 700;
-	text-shadow: 1px 1px black;
+	/* font-family: "Vast Shadow", serif; */
+	font-family: "Rakkas", serif;
+	/* font-family: "Stardos Stencil", system-ui; */
+	/* 3 font-family: "Aldrich", sans-serif; */
+	/* 4 font-family: "Aclonica", sans-serif; */
+	/* font-family: "Squada One", sans-serif; */
+	/* font-family: "Caveat", cursive; */
+	font-size: 20px;
+	font-weight: 400;
+	text-shadow: 1.2px 0.5px black;
 }
 
 .contacts i{
@@ -160,4 +166,8 @@ section .contacts{
 
 .contacts a:active{
 	color: goldenrod;
+}
+
+button i {
+	margin-right: 8px;
 }
