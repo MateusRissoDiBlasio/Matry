@@ -78,8 +78,12 @@
 	height: 80px;
 }
 
-.seguradoras .liberty{
+.seguradoras .liberty {
 	width: 180px;
+}
+
+.seguradoras .porto {
+	width: 130px;
 }
 
 .seguradoras .allianz{
@@ -173,5 +177,8 @@ button i {
 }
 
 .fa-motorcycle{
- margin-left: 4px;
+	margin-left: 4px;
+}
+.fa-truck{
+	margin-right: 2px;
 }
