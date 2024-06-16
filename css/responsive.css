@@ -102,7 +102,7 @@
     }
 
     button {
-        width: 240px;
+        width: 260px;
         height: 80px;
         font-size: 16px;
     }
@@ -173,9 +173,9 @@
     }
 
     button {
-        width: 220px;
+        width: 240px;
         height: 80px;
-        font-size: 18px;
+        font-size: 14px;
         padding: 10px;
         margin: 10px;
     }
